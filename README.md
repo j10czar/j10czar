@@ -1,17 +1,15 @@
-<h1 align="center">Jason</h1>
-<h3 align="center">High school CS student and aspiring web developer</h3>
-
 - 🔭 I’m currently working on **Student organization app**
 
 - 🌱 I’m currently learning **Front end development with React and React Native**
 
 - 🤝 I’m looking for help with **anything JS**
 
-- 👨‍💻 All of my projects are available at [https://j10czar.github.io/Portfolio/](https://j10czar.github.io/Portfolio/)
+- 😎 All of my projects are available at [https://j10czar.github.io/Portfolio/](https://j10czar.github.io/Portfolio/)
 
 - 📫 You can reach me at **j10czar1@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j10czar&" alt="j10czar" /></p>
+
 <p align="left">
 </p>
 
@@ -20,4 +18,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=j10czar&show_icons=true&locale=en&layout=compact" alt="j10czar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j10czar&" alt="j10czar" /></p>
+
