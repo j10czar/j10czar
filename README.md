@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on **Student organization app**
+- 🔭 I’m currently working on **Student organization app called Nowe**
 
 - 🌱 I’m currently learning **Front end development with React and React Native**
 
