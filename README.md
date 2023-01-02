@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Front end development with React and React Native**
 
-- 🤝 I’m looking for help with **anything JS**
+- 🤝 I’m looking for help with **Web Scraping and APIs**
 
 - 😎 All of my projects are available at [https://j10czar.github.io/Portfolio/](https://j10czar.github.io/Portfolio/)
 
