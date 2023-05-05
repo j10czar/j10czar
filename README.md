@@ -1,12 +1,4 @@
-- 🔭 I’m currently working on **Student organization app called Nowe**
 
-- 🌱 I’m currently learning **Front end development with React and React Native**
-
-- 🤝 I’m looking for help with **Web Scraping and APIs**
-
-- 😎 All of my projects are available at [https://j10czar.github.io/Portfolio/](https://j10czar.github.io/Portfolio/)
-
-- 📫 You can reach me at **j10czar1@gmail.com**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j10czar&show_icons=true&theme=dark&hide_border=true&locale=en" alt="j10czar" /></p>
 
