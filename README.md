@@ -1,8 +1,5 @@
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j10czar&show_icons=true&theme=dark&hide_border=true&locale=en" alt="j10czar" /></p>
-
-
 
 <p align="left">
 </p>
