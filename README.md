@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
+<h3 align="center">Software Engineering Intern at Integris Group</h3>
 <h3 align="center">CS Student at the University of Florida</h3>
 
 - 👨‍💻 All of my projects are available at [https://j10czar.github.io/Portfolio/](https://j10czar.github.io/Portfolio/)
