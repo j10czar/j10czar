@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
-<h3 align="center">Full-Stack Developer / Computer Science @ University of Florida</h3>
+<h3 align="center">Computer Science @ University of Florida</h3>
 <h3 align="center">Lead SWE @ ACM</h3>
 <h3 align="center">Previous SWE Intern @ Integris Group</h3>
 </br>
