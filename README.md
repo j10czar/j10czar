@@ -30,4 +30,3 @@ drwx------  discord/   → @jasontenczar
 drwx------  portfolio/ → tenczar.dev
 ```
 
-<sub>`//` this readme intentionally left weird</sub>
