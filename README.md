@@ -13,14 +13,13 @@
 
 ```
 > whoami
-jason :: cs @ uf :: builds things :: breaks them first
+jason :: cs @ uf
 ```
 
 ```
 $ cat ~/.currently
-▸ shipping code that may or may not compile
+▸ shipping code
 ▸ drinking coffee #4 of the day
-▸ thinking about that one bug from 3 days ago
 ```
 
 ```
